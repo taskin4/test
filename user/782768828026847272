@@ -44,19 +44,19 @@
     {
       "id": "premium",
       "description": "Subscriber since Sep 17, 2024",
-      "icon": "2ba85e8026a8614b640c2837bcdfe21b",
+      "icon": "hype",
       "link": "https://discord.com/settings/premium"
     },
     {
       "id": "guild_booster_lvl3",
       "description": "Server boosting since Sep 17, 2024",
-      "icon": "316244",
+      "icon": "aktif",
       "link": "https://discord.com/settings/premium"
     },
     {
       "id": "quest_completed",
       "description": "Completed a Quest",
-      "icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+      "icon": "4seviye",
       "link": "https://discord.com/discovery/quests"
     },
     {
