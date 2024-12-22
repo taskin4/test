@@ -58,13 +58,13 @@
       "description": "Completed a Quest",
       "icon": "7d9ae358c8c5e118768335dbe68b4fb8",
       "link": "https://discord.com/discovery/quests"
-    }
+    },
     {
       "id": "hypesquad_house_1",
       "description": "HypeSquad Bravery",
       "icon": "8a88d63823d8a71cd5e390baa45efa02",
       "link": "https://discord.com/settings/hypesquad-online"
-    },
+    }
   ],
   "guild_badges": [],
   "legacy_username": null
